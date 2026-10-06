@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 # 2. 配置环境变量
 cp .env.example .env
-# 编辑 ../.env 填入你的 API Key
+# 编辑 .env 填入你的 API Key
 [详细配置指南](./docs/环境变量配置指南.md)
 
 # 3. 启动服务
