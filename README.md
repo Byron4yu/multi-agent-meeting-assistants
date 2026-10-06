@@ -29,7 +29,7 @@ python -m src.main
 curl -X POST http://localhost:8000/api/v1/meeting/demo/demo
 ```
 
-> 📝 各 API Key 的获取与填写方法，请参考 [详细配置指南](./docs/环境变量配置指南.md)
+>  各 API Key 的获取与填写方法，请参考 [详细配置指南](./docs/环境变量配置指南.md)
 
 ## Docker 启动
 
